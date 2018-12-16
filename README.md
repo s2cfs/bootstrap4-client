@@ -2,7 +2,6 @@
 
 S2CFS is a paid contact form API service. We are providing this service to people who are willing to pay a minimum usage fee instead of aggreeing to uncomprehensible privacy policies and terms, which end up profiting from the users personal data.
 
-Our motto: 
 ```
 Pay with money, not with your data.
 ```
